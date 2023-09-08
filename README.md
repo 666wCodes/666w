@@ -35,3 +35,67 @@ We are not liable for any damages, including direct, indirect, incidental, or co
 ## Contact Us
 
 If you have questions or concerns about these terms or the bot, please contact me at 666w@blobby-bot.xyz (discord: 666w).
+
+# Privacy Policy for [Your Discord Bot Name]
+
+Last updated: [Date]
+
+## Introduction
+
+Welcome to the privacy policy for [Country ball alerts] ("the Bot"). This policy is designed to inform you about the types of information we collect, how we use that information, and the choices you have concerning your data. Your privacy is important to us, and we are committed to protecting it.
+
+## Information We Collect
+
+### Discord User Data
+
+We may collect and store certain information from Discord users who interact with the Bot, including:
+
+- Ping Role IDs
+- Ping Message
+- Other server configuartions
+**We do not store message content, it is only used to detect if a countryball has spawned**
+
+### Usage Data
+
+We may collect usage data, such as:
+
+- Commands executed by users
+- Bot responses and actions
+- Error logs and debugging information
+
+## How We Use Your Information
+
+We use the collected information for the following purposes:
+
+- Providing and maintaining the Bot's functionality.
+- Improving and optimizing the Bot's features and performance.
+- Responding to user inquiries and support requests.
+- Ensuring compliance with Discord's Terms of Service and guidelines.
+- Detecting and preventing misuse or abuse of the Bot.
+
+## Data Security
+
+We take data security seriously and implement reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction.
+
+## Sharing Your Information
+
+We do not sell or share your personal information with third parties unless required by law or for the purposes mentioned in this policy.
+
+## Your Choices
+
+You have the following choices regarding your data:
+
+- You can request the deletion of your data by contacting us.
+- You can configure certain permissions and settings for the Bot within Discord.
+
+## Changes to this Privacy Policy
+
+We may update this privacy policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted on this page, and the date of the latest revision will be updated accordingly.
+
+## Contact Us
+
+If you have any questions, concerns, or requests related to this privacy policy or your data, please contact me at 666w@blobby-bot.xyz (discord: 666w).
+
+Thank you for using [Country ball alerts]!
+
+
