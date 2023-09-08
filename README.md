@@ -32,11 +32,11 @@ The Country Ball Alerts bot is provided "as is" without any warranty or guarante
 
 We are not liable for any damages, including direct, indirect, incidental, or consequential damages, arising from the use of the bot.
 
-## Contact Us
+## Contact
 
 If you have questions or concerns about these terms or the bot, please contact me at 666w@blobby-bot.xyz (discord: 666w).
 
-# Privacy Policy for [Country ball alerts]
+# Privacy Policy for Country Ball Alerts discord bot
 
 Last updated: [8/09/2023]
 
@@ -52,7 +52,8 @@ We may collect and store certain information from Discord users who interact wit
 
 - Ping Role IDs
 - Ping Message
-- Other server configuartions
+- Other server configurations
+
 **We do not store message content, it is only used to detect if a countryball has spawned**
 
 ### Usage Data
@@ -92,10 +93,10 @@ You have the following choices regarding your data:
 
 We may update this privacy policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted on this page, and the date of the latest revision will be updated accordingly.
 
-## Contact Us
+## Contact
 
 If you have any questions, concerns, or requests related to this privacy policy or your data, please contact me at 666w@blobby-bot.xyz (discord: 666w).
 
-Thank you for using [Country ball alerts]!
+Thank you for using Country ball alerts
 
 
