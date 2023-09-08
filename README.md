@@ -36,9 +36,9 @@ We are not liable for any damages, including direct, indirect, incidental, or co
 
 If you have questions or concerns about these terms or the bot, please contact me at 666w@blobby-bot.xyz (discord: 666w).
 
-# Privacy Policy for [Your Discord Bot Name]
+# Privacy Policy for [Country ball alerts]
 
-Last updated: [Date]
+Last updated: [8/09/2023]
 
 ## Introduction
 
